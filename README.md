@@ -1,1 +1,1 @@
--
+-5-nginx-network command ->  docker run -d --name my-nginx -p 8081:80  nginx-project:latest
