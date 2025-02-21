@@ -1,0 +1,3 @@
+user: vboxuser2
+nginx_config: "{{ lookup('file', 'files/config.conf') }}"
+nginx_index: "{{ lookup('file', 'files/index.html') }}"
